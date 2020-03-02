@@ -1,0 +1,7 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="web-proxy.in.softwaregrp.net" />
+    <option name="PROXY_PORT" value="8080" />
+    <option name="PROXY_EXCEPTIONS" value="localhost,127.0.0.1" />
+  </component>
+</application>
